@@ -1,1 +1,30 @@
-h3 {color:blueviolet; font-style: oblique;}
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.thesun {
+    background-color: #222526  ;
+    color: white;
+    border-style: solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.Logo {
+    position: relative;
+    margin-top: 0px;
+}
+.nav-bar-1 {
+    list-style-type: none;
+    margin: 0px - 10px 0px 0px;
+    padding: 0px 5px;
+}
+li {
+    display: inline-block;
+    color:#222526;
+    font-size: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-right-style: solid;
+    border-width: 1px;
+    border-color: #222526;
+    font-weight: 300;
+ }
